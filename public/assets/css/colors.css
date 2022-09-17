@@ -1,0 +1,14 @@
+.btn-dark {
+    background-color: black;
+    color: white;
+}
+
+.danger {
+    background-color: red;
+    color: white;
+}
+
+.success {
+    background-color: green;
+    color: white;
+}
